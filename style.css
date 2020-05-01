@@ -1,0 +1,104 @@
+.container{
+    display:flex;
+}
+.host-block{
+    width: 50%;
+    height: 80vh;
+    margin-top: 5%;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+.device-block{
+    width: 50%;
+    height: 80vh;
+    margin-left: 20%;
+    margin-top: 5%;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    display: flex;
+}
+
+.host-interface{
+    width: 20%;
+    height: 80%;
+    background-color:lightslategray;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.second-column{
+    width:20%;
+    height: 80%;
+    background-color:white;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.smart{
+    margin-top: 20%;
+    height: 20%;
+    background-color: lime;
+}
+.wear{
+    margin-top: 15%;
+    height: 20%;
+    background-color: lime;
+}
+.read{
+    margin-top: 15%;
+    height: 20%;
+    background-color: lime;
+}
+.encrypt{
+    margin-top: 15%;
+    height: 25%;
+    background-color: lime;
+}
+.third-column{
+    width:20%;
+    height: 80%;
+    background-color:white;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.buffer{
+    margin-top: 20%;
+    height: 20%;
+    background-color: lime;
+}
+.cpu{
+    margin-top: 15%;
+    height: 20%;
+    background-color: lime;
+}
+.ecc{
+    margin-top: 15%;
+    height: 20%;
+    background-color: lime;
+}
+.write{
+    margin-top: 15%;
+    height: 25%;
+    background-color: lime;
+}
+.fourth-column{
+    width:20%;
+    height: 80%;
+    background-color:white;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.misc{
+    margin-top: 20%;
+    height: 20%;
+    background-color: lime;
+}
+.nand{
+    margin-top: 15%;
+    height: 50%;
+    background-color: lime;
+}
+.defect{
+    margin-top: 15%;
+    height: 15%;
+    background-color: lime;
+}
